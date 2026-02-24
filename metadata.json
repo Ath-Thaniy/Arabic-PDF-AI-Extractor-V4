@@ -1,0 +1,5 @@
+{
+  "name": "Arabic PDF AI Extractor V4",
+  "description": "A powerful AI-driven tool to accurately extract and convert text from Arabic PDF documents into editable formats using the latest Gemini models.",
+  "requestFramePermissions": []
+}
